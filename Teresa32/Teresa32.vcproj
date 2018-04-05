@@ -219,6 +219,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\SelectBox.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\Title.cpp"
 				>
 			</File>
@@ -293,6 +297,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\SelectBox.h"
+				>
+			</File>
+			<File
 				RelativePath=".\Title.h"
 				>
 			</File>
@@ -312,6 +320,10 @@
 			>
 			<File
 				RelativePath=".\background1.bmp"
+				>
+			</File>
+			<File
+				RelativePath=".\selectbox1.bmp"
 				>
 			</File>
 			<File
